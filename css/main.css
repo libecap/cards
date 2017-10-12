@@ -18,7 +18,7 @@ html {
 
 .cards li {
   display: inline-block;
-  margin:0 .5em 1em;
+  margin: 0 .5em 1em;
   max-width: 20em;
   padding: 1em;
   background-color: #fff;
@@ -32,7 +32,7 @@ html {
   margin: 0 auto 1rem;
 }
 
-.cards strong{
+.cards strong {
   display: block;
   margin-bottom: 1rem;
   font-size: 1.125rem;
